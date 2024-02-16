@@ -9,7 +9,7 @@ This repository contains a tool intended **strictly for educational and research
 **This tool is potentially harmful.** It simulates an email reconnaissance tool but carries a malicious payload that removes certain Linux boot files upon execution, leading to system restart and potential unbootability. It's designed to illustrate the risks of executing untrusted software and the importance of cybersecurity.
 
 ## Usage Guidelines
-1. **Environment**: Use this tool only in a controlled, isolated environment, such as a virtual machine, without sensitive or personal data. **Do not use on any production or personal systems.**
+1. **Environment**: Use this tool only in a controlled, isolated LINUX environment, such as a virtual machine, without sensitive or personal data. **Do not use on any production or personal systems.**
 2. **Execution**: Upon running, the tool prompts for an email address as part of its simulated functionality.
 3. **Malicious Payload**: After email input, it modifies Linux boot files and initiates a system restart, demonstrating the payload's impact.
 4. **Recovery**: Post-execution, the system may experience boot issues. This tool is for those who understand the risks and are prepared to manage them.

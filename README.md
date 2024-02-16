@@ -1,5 +1,7 @@
 # Email Recon Tool - Educational Malware
 
+![plot](https://github.com/TrojanNinja/FHPCKER/blob/main/Banner.jpg)
+
 ## Disclaimer
 This repository contains a tool intended **strictly for educational and research purposes**. It's a demonstration of the mechanics behind certain types of malware, specifically targeting Linux boot files. The use of this tool is at your own risk, and should only be in environments that are safe, legal, and ethical. The author(s) of this tool disclaim any responsibility for misuse, damages, or legal consequences resulting from its use.
 

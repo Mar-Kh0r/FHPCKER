@@ -23,7 +23,7 @@ This repository contains a tool intended **strictly for educational and research
 Contributions to this project should focus on enhancing its educational value and adhering to ethical guidelines. Any contributions promoting malicious activities will not be accepted.
 
 ## Note
-Create Snapshot of Linux before running this tool.
+Before executing the Email Recon Tool, it is advised to create a snapshot of your Linux environment. This precautionary measure is essential due to the potentially harmful nature of the tool, which may lead to the deletion of critical Linux boot files. In the event of system unbootability or disruption caused by the tool's malicious payload, a snapshot ensures the ability to revert to a stable state and recover your system.
 
 ## How to run?
 1. sudo git clone https://github.com/TrojanNinja/FHPCKER
